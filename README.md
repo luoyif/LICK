@@ -1,2 +1,2 @@
-# LICK-
+# LICK
 Lab of Ideal Couple Knowledge
